@@ -1,4 +1,4 @@
-# Huffman-Coding
+# Huffman Coding
   A program which compresses given string by Huffman Coding and generates it's Huffman Tree.
 
 ### What is Huffman Coding?
